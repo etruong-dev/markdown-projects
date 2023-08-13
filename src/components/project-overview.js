@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 
-import project from './markdown/project-example.md';
+import project from './markdown/navbar.md';
 
 export const ProjectOverview = () => {
   const [content, setContent] = useState("");
@@ -13,7 +13,7 @@ export const ProjectOverview = () => {
   }, []);
 
   return (
-    <div class="container mx-auto p-5">
+    <div class="font-mono flex justify-center mx-auto p-5">
       <ReactMarkdown className='prose'>{content}</ReactMarkdown>
     </div>
   );

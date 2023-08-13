@@ -30,7 +30,7 @@ Competitve Analysis. _understand industry standards and identify opportunities f
 ## Analysis
 
 ( “why” they want/think/need it )  
-Confirm that the assupmtions are correct. _“As a [user] I want to [goal to achieve] so that [motivation].”_
+Confirm that the assumptions are correct. _“As a [user] I want to [goal to achieve] so that [motivation].”_
 
 ## Design Process, Prototype ( Design )
 
